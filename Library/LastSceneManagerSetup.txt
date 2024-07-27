@@ -1,0 +1,4 @@
+sceneSetups:
+- path: E:/Dropbox/My Games/UdemyTutorial/UdemyTutorial/Assets/BattleScene.unity
+  isLoaded: 1
+  isActive: 1
